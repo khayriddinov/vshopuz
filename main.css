@@ -154,7 +154,7 @@ input {
     gap: 30px;
     color: var(--dark);
     font-weight: 500;
-    border: 1px solid #eaeaea;
+    /* border: 1px solid #eaeaea; */
   }
   ul.menu li a {
     padding: 15px 3px;
